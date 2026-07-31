@@ -1,7 +1,5 @@
 # MNIST Digit Classification using ResNet50 Transfer Learning
 
-![MNIST Sample](https://www.tensorflow.org/images/mnist_from_keras.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
